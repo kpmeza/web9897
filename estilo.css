@@ -96,3 +96,9 @@ div {
   display: grid;
   grid-template-columns: 25% 25% 25% 25%;
 }
+.formu{
+  display: flex;
+   justify-content: center;
+   align-items: center;
+  align-content: center;
+}
